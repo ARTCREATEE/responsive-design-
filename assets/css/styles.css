@@ -1,1 +1,16 @@
 /* styles.css */
+:root { 
+/* CSS HEX */
+--stormy-teal: #006d77ff;
+--pearl-aqua: #83c5beff;
+--alice-blue: #edf6f9ff;
+--almond-silk: #ffddd2ff;
+--tangerine-dream: #e29578ff;
+}
+
+html { 
+background-color: var(--stormy-teal); 
+}
+h1 { 
+ color: var(--almond-silk);
+} 
